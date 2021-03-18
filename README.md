@@ -4,7 +4,7 @@ PolKit client library and CLI for golang.
 
 ## CLI Installation
 ```
-$ cd $GOPATH/src/github.com/amenzhinsky/go-polkit
+$ cd $GOPATH/src/github.com/xiayesuifeng/go-polkit
 $ go install 
 ```
 
